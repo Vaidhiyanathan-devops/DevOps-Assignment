@@ -192,28 +192,9 @@ terraform apply -var-file="prod.tfvars"
 
 ---
 
-## ✅ Assignment Checklist
-
-- [x] Repository is a fork of the original
-- [x] No commits pushed to the original repository
-- [x] Documentation link provided (Google Docs)
-- [x] Application deployed on AWS (`k8s.vaidhi.sbs`)
-- [x] Second cloud (GCP) — *submitted separately*
-- [x] Cloud & region choices clearly justified
-- [x] Environments: dev / staging / prod exist with meaningful differences
-- [x] Infrastructure provisioned using Terraform (IaC)
-- [x] State strategy documented (S3 + DynamoDB)
-- [x] Security & identity decisions explained
-- [x] Failure & operational behavior documented
-- [x] Future growth scenario addressed
-- [x] "What we did NOT do" section included
-- [x] Demo video link provided
-- [x] Hosted URLs confirmed live
-
 ---
 
 
 ---
 
-*Built for the PGAGI DevOps Full-Time Role assignment. Infrastructure-first, complexity-averse, production-minded.*
 
